@@ -1,0 +1,36 @@
+/* add your CSS here */
+body {
+  background-color: lightgrey;
+  margin: 5px;
+  padding: 5px;
+  align-items: center;
+  width: 350px;
+}
+img {
+  width: 300px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+span {
+  font-weight: bold;
+}
+.facts {
+  font-style: italic;
+  margin: 10px;
+  padding: 10px;
+}
+ul {
+  list-style-type: none;
+}
+.whole-div {
+  border: black solid 1px;
+  padding: 10px;
+  font-family: monospace;
+  font-size: 14px;
+}
+.info {
+  border: grey solid 0.5px;
+  margin: 5px;
+  padding: 5px;
+}
